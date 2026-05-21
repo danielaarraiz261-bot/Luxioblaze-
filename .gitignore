@@ -1,0 +1,36 @@
+# Gradle
+.gradle/
+build/
+*.apk
+*.aar
+*.jks
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+local.properties
+
+# Local environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# API Keys
+CLAUDE_API_KEY
+STABLE_DIFFUSION_API_KEY
+
+# Dependencies
+*.lock
+node_modules/
+
+# Generated files
+gen/
+bin/
+
+# Logs
+*.log
